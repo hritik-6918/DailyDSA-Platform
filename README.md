@@ -1,3 +1,13 @@
+## DailyDSA-Platform
+
+![Screenshot (420)](https://github.com/user-attachments/assets/d0011178-9c25-4ec9-9a98-a49b3a14f4a5)
+
+![Screenshot (421)](https://github.com/user-attachments/assets/bac23c92-e0bf-43ee-a04c-9d2533eaf017)
+
+![Screenshot (422)](https://github.com/user-attachments/assets/b615aeae-263d-4ef6-afdf-18c9ec2dad47)
+
+![Screenshot (423)](https://github.com/user-attachments/assets/1f6b6bd7-5419-4ba8-be88-477020c12fd1)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
